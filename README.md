@@ -1,1 +1,1 @@
-<h3>SSAFY CpdingStudy</h3>
+<h3>SSAFY CodingStudy</h3>
