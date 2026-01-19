@@ -44,8 +44,7 @@ public class Solution {
 			if(i == 20) {
 				System.out.print("\n");
 				System.out.println(1);
-				System.out.println(1);
-				System.out.println(1);
+				
 			}
 		}
 	}
