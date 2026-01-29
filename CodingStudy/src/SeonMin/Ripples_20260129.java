@@ -61,7 +61,7 @@ public class Ripples_20260129 {
 //			for (int i = 0; i < N; i++) {
 //				System.out.println(Arrays.toString(pond[i]));
 //			}
-
+// test
 			int max = 0;
 			for (int i = 0; i < N; i++) {
 				for (int j = 0; j < N; j++) {
