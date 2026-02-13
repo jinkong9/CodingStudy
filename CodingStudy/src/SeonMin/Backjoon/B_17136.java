@@ -1,5 +1,5 @@
 // 백준 17136 색종이 붙이기
-package SeonMin;
+package SeonMin.Backjoon;
 
 import java.util.*;
 import java.io.*;

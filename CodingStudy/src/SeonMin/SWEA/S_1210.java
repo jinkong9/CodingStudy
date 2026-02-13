@@ -1,5 +1,5 @@
 // SWEA 1210번 Ladder1 (사다리게임)
-package SeonMin;
+package SeonMin.SWEA;
 
 import java.util.*;
 import java.io.*;

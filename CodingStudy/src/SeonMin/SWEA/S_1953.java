@@ -1,9 +1,10 @@
-package SeonMin;
+// SWEA 1953번 : 탈주범 검거
+package SeonMin.SWEA;
 
 import java.util.*;
 import java.io.*;
 
-public class S1953_Escaper {
+public class S_1953 {
 
 	static int N, M, R, C, L, count;
 	static int[][] tunnel;

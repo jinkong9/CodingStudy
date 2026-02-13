@@ -1,5 +1,5 @@
 // 백준 9663번 N-Queen_내가 이해한 버전
-package SeonMin;
+package SeonMin.Backjoon;
 
 import java.io.*;
 import java.util.*;

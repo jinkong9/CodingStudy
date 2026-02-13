@@ -1,15 +1,17 @@
-package SeonMin;
+//제1회차 월말평가 2번 : 자바 알고리즘 - 물결파동
+package SeonMin.EXAM;
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-// The main method must be in a class named "Main".
-public class Ripples_20260129 {
+public class E_M01_260129 {
+	
 	public static void main(String[] args) throws IOException {
+		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int T = Integer.parseInt(br.readLine());
-		
+
 		StringBuilder sb = new StringBuilder();
 
 		for (int test_case = 1; test_case <= T; test_case++) {
@@ -57,7 +59,7 @@ public class Ripples_20260129 {
 					}
 				}
 			}
-			
+
 //			for (int i = 0; i < N; i++) {
 //				System.out.println(Arrays.toString(pond[i]));
 //			}
@@ -72,5 +74,7 @@ public class Ripples_20260129 {
 			sb.append("#").append(test_case).append(" ").append(max).append("\n");
 		}
 		System.out.println(sb);
+	
 	}
+	
 }

@@ -1,5 +1,5 @@
 // SWEA 14510번 나무 높이
-package SeonMin;
+package SeonMin.SWEA;
 
 import java.util.*;
 import java.io.*;

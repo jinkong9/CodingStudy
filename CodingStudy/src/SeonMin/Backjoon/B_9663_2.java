@@ -1,5 +1,5 @@
 // 백준 9663번 N-Queen_test수가 많을 걸 대비한 방법
-package SeonMin;
+package SeonMin.Backjoon;
 
 import java.io.*;
 import java.util.*;

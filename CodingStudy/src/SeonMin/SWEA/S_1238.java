@@ -1,5 +1,5 @@
 // SWEA 1238번 : Contact
-package SeonMin;
+package SeonMin.SWEA;
 
 import java.util.*;
 import java.io.*;
