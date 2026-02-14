@@ -4,7 +4,7 @@ package SeonMin.Backjoon;
 import java.io.*;
 import java.util.*;
 
-public class B_9663_2 {
+public class B_9663_NQueen2 {
 
 	static int N, count;
 	static boolean[] column, rightUp, rightDown;

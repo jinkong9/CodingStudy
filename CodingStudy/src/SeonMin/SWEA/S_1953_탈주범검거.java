@@ -4,7 +4,7 @@ package SeonMin.SWEA;
 import java.util.*;
 import java.io.*;
 
-public class S_1953 {
+public class S_1953_탈주범검거 {
 
 	static int N, M, R, C, L, count;
 	static int[][] tunnel;

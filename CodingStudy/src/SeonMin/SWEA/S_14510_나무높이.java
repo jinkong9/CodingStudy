@@ -4,7 +4,7 @@ package SeonMin.SWEA;
 import java.util.*;
 import java.io.*;
 
-public class S_14510 {
+public class S_14510_나무높이 {
 
 	static int N, maxH, oddCnt, evenCnt, quotient, remainder, lastDay, newDay;
 	static int[] trees, diffs;

@@ -4,7 +4,7 @@ package SeonMin.Backjoon;
 import java.util.*;
 import java.io.*;
 
-public class B_17136 {
+public class B_17136_색종이붙이기 {
 
 	static int LEN = 10;
 	static int minResult = Integer.MAX_VALUE;

@@ -4,7 +4,7 @@ package SeonMin.Backjoon;
 import java.io.*;
 import java.util.*;
 
-public class B_9663 {
+public class B_9663_NQueen {
 
 	static int N, count;
 	static int[] chess;
